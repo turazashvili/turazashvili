@@ -54,8 +54,8 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=turazashvili&show_icons=true&theme=synthwave" height="160" alt="GitHub Stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turazashvili&layout=compact&theme=synthwave" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats-private-mu.vercel.app/api?username=turazashvili&show_icons=true&theme=synthwave" height="160" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats-private-mu.vercel.app/api/top-langs/?username=turazashvili&layout=compact&theme=synthwave" height="160" alt="Top Languages" />
 </p>
 
 <p align="center">
