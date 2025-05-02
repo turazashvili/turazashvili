@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=turazashvili&theme=synthwave&hide_border=true" height="160" alt="GitHub Streak" /> 
+  <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=turazashvili&&theme=synthwave&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
