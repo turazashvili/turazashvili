@@ -60,7 +60,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=turazashvili&theme=synthwave&hide_border=true" height="160" alt="GitHub Streak" /> 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=turazashvili" height="160" alt="Wakatime Stats" />
 </p>
 
 <p align="center">
