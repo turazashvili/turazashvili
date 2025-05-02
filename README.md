@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://github.com/turazashvili/SchemaCraftAI">
-    <img src="https://raw.githubusercontent.com/turazashvili/SchemaCraftAI/main/public/logo.svg" alt="SchemaCraftAI Logo" width="120" />
+    <img src="https://raw.githubusercontent.com/turazashvili/SchemaCraftAI/main/public/favicon.ico" alt="SchemaCraftAI Logo" width="120" />
   </a>
 </p>
 
@@ -60,7 +60,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=turazashvili&theme=synthwave&hide_border=true" height="160" alt="GitHub Streak" /> 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=turazashvili&layout=compact&theme=synthwave" height="160" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=turazashvili" height="160" alt="Wakatime Stats" />
 </p>
 
 <p align="center">
