@@ -46,7 +46,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,tailwind,ethereum,ai&perline=8" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,tailwind,raspberrypi,redis,supabase,solidity,&perline=10" alt="My Skills" />
 </p>
 
 ---
@@ -81,13 +81,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=turazashvili&color=ff69b4&style=flat-square" alt="Profile Views" /> 
 </p>
-
----
-
-## 🎮 Interactive Fun
-
-- [💻 Play GitHub Skyline](https://skyline.github.com/turazashvili/2024) (Your GitHub contributions as a 3D city)
-- [🚀 GitHub Actions Games](https://github.com/marketplace/actions/game-actions) – Set up your own mini-games with GitHub Actions!
 
 ---
 
