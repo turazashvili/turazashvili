@@ -93,7 +93,7 @@ Design database schemas using natural language and generate boilerplate code aut
 
 ### Let's Connect
 
-[![Vexrail](https://img.shields.io/badge/Vexrail.com-000000?style=flat&logoColor=white)](https://vexrail.com)
+<a href="https://vexrail.com"><img src="https://raw.githubusercontent.com/turazashvili/turazashvili/main/vexrail-logo.svg" alt="Vexrail" height="28" /></a>&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/turazashvili)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/NTurazashvili)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)](https://github.com/turazashvili)
