@@ -66,11 +66,11 @@ Design database schemas using natural language and generate boilerplate code aut
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=turazashvili&&theme=synthwave&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=turazashvili&theme=synthwave&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=turazashvili&theme=onedark&no-frame=true&margin-w=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-six-azure.vercel.app/?username=turazashvili&theme=onedark&no-frame=true&margin-w=5" alt="GitHub Trophies" />
 </p>
 
 ---
