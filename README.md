@@ -27,6 +27,10 @@ Before Vexrail, I spent years building AI and blockchain products. I still write
 
 ## Projects
 
+<a href="https://vexrail.com">
+  <img src="https://raw.githubusercontent.com/turazashvili/turazashvili/main/vexrail-logo.svg" alt="Vexrail Logo" width="80" />
+</a>
+
 ### Vexrail — Ad Infrastructure for AI Apps
 The ad monetization layer for AI products. Intent-based targeting, no PII dependency, built for chatbots, voice agents, and AI-powered apps.
 
@@ -89,7 +93,7 @@ Design database schemas using natural language and generate boilerplate code aut
 
 ### Let's Connect
 
-[![Vexrail](https://img.shields.io/badge/Vexrail-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiAyTDIgMjJoMjBMMTIgMnoiLz48L3N2Zz4=&logoColor=white)](https://vexrail.com)
+[![Vexrail](https://img.shields.io/badge/Vexrail.com-000000?style=flat&logoColor=white)](https://vexrail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/turazashvili)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/NTurazashvili)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)](https://github.com/turazashvili)
