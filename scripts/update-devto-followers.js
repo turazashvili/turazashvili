@@ -50,7 +50,9 @@ async function getFollowersCount() {
 function renderBadge(count) {
   const label = `${count.toLocaleString("en-US")} followers`;
   const encoded = encodeURIComponent(label).replace(/-/g, "--");
-  return `[![DEV](https://img.shields.io/badge/DEV-${encoded}-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/${DEVTO_USERNAME})`;
+  // HTML (not markdown): markdown is not parsed when GitHub treats the
+  // surrounding comment markers as a raw HTML block.
+  return `<a href="https://dev.to/${DEVTO_USERNAME}"><img src="https://img.shields.io/badge/DEV-${encoded}-0A0A0A?style=flat&logo=devdotto&logoColor=white" alt="DEV: ${label}" /></a>`;
 }
 
 async function main() {
