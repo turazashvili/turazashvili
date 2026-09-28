@@ -10,6 +10,14 @@
 <a href="#github-stats--activity">Stats</a>
 </p>
 
+<p align="center">
+  <a href="https://vexrail.com"><img src="https://raw.githubusercontent.com/turazashvili/turazashvili/main/vexrail-logo.svg" alt="Vexrail" height="20" /></a>
+  <a href="https://www.linkedin.com/in/turazashvili"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://x.com/NTurazashvili"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://github.com/turazashvili"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github" alt="GitHub" /></a>
+  <!-- DEVTO-FOLLOWERS-COUNT:START --><a href="https://dev.to/axrisi"><img src="https://img.shields.io/badge/DEV-8%2C834%20followers-0A0A0A?style=flat&logo=devdotto&logoColor=white" alt="DEV: 8,834 followers" /></a><!-- DEVTO-FOLLOWERS-COUNT:END -->
+</p>
+
 ---
 
 ## About Me
@@ -88,12 +96,3 @@ Design database schemas using natural language and generate boilerplate code aut
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=turazashvili&color=ff69b4&style=flat-square" alt="Profile Views" /> 
 </p>
-
----
-
-### Let's Connect
-
-<a href="https://vexrail.com"><img src="https://raw.githubusercontent.com/turazashvili/turazashvili/main/vexrail-logo.svg" alt="Vexrail" height="28" /></a>&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/turazashvili)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/NTurazashvili)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)](https://github.com/turazashvili) <!-- DEVTO-FOLLOWERS-COUNT:START --><a href="https://dev.to/axrisi"><img src="https://img.shields.io/badge/DEV-8%2C834%20followers-0A0A0A?style=flat&logo=devdotto&logoColor=white" alt="DEV: 8,834 followers" /></a><!-- DEVTO-FOLLOWERS-COUNT:END -->
