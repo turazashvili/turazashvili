@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/turazashvili"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://x.com/NTurazashvili"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://github.com/turazashvili"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github" alt="GitHub" /></a>
-  <!-- DEVTO-FOLLOWERS-COUNT:START --><a href="https://dev.to/axrisi"><img src="https://img.shields.io/badge/DEV-8%2C834%20followers-0A0A0A?style=flat&logo=devdotto&logoColor=white" alt="DEV: 8,834 followers" /></a><!-- DEVTO-FOLLOWERS-COUNT:END -->
+  <!-- DEVTO-FOLLOWERS-COUNT:START --><a href="https://dev.to/axrisi"><img src="https://img.shields.io/badge/DEV-8%2C849%20followers-0A0A0A?style=flat&logo=devdotto&logoColor=white" alt="DEV: 8,849 followers" /></a><!-- DEVTO-FOLLOWERS-COUNT:END -->
 </p>
 
 ---
